@@ -157,6 +157,7 @@ BESUCHER E5.14: E14</h4>
 <h3 align="left"Why DLM with Scheduling?</h3>
 	
 <h4 align="left">
+	
 * Dynamic load management(DLM) is an energy management system which distributes the electricity to all the EVs that are charged simultaneously and channelise the complete volume of power to the EV whenever the grid has sufficient capacity.
 
 * This strategy does not involve any infrastructural requirements.
