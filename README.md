@@ -18,18 +18,20 @@
   
 <h4 align="left"> Discussions</h4> 
   
-<h4 align="left">'
+<h4 align="left">
   
-*	From 2017, there was a steady growth in the number of electric vehicles this resulted in more power consumption in 2019.
+* From 2017, there was a steady growth in the number of electric vehicles this resulted in more power consumption in 2019.
   
-*	2020 power consumption was drastically low because of the travel regulation imposed due to Corona pandemic. 
+* 2020 power consumption was drastically low because of the travel regulation imposed due to Corona pandemic. 
   
-*	The power consumption peaks range between 8 am and 4 pm, this might be because of working hours.
+* The power consumption peaks range between 8 am and 4 pm, this might be because of working hours.
   
-*	The power consumption is minimal for the time range, from 12 am to 7 am and from 4 pm to 11 pm reason might be, because of a smaller number of vehicles being charged in those time range. </h4> 
+* The power consumption is minimal for the time range, from 12 am to 7 am and from 4 pm to 11 pm reason might be, because of a smaller number of vehicles being charged in those time range. </h4> 
   
 <h3 align="left"> 2. Analysis of Power Consumption for Each Day</h3>
+	
   <h4 align="left"> The following graph is plotted on the variation of total power consumption (sum of power consumption of all the charging stations under analysis) in kilo-Watthour(kWh) against Time for each day from 2017 to 2020. </h4>
+	
   <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/74568334/126493282-27421381-411f-4f01-8926-530bd8ac73f6.png">
 </p> 
@@ -44,9 +46,9 @@
   
 * The power consumption on Mondays is found to be greater than that of any other day as there might be higher travelling on the weekends.
   
-*	Similarly, the Friday power consumption might correspond to the higher travelling requirement on the weekends.
+* Similarly, the Friday power consumption might correspond to the higher travelling requirement on the weekends.
   
-*	The rest of the working days (i.e., Tuesday till Thursday) the power consumption is similar and comparatively lesser than that of Monday and Friday, as these days do not succeed or precede by any other day with higher travelling requirements.</h4> 
+* The rest of the working days (i.e., Tuesday till Thursday) the power consumption is similar and comparatively lesser than that of Monday and Friday, as these days do not succeed or precede by any other day with higher travelling requirements.</h4> 
   
 <h3 align="left"> 3. Analysis of Power Consumption for Each Charging Station in 2020</h3>
 	
@@ -139,9 +141,13 @@ BESUCHER E5.14: E14</h4>
 <h4 align="left"> 
 	
 * The power consumption in the charging stations is found to be high, from 8 am to 4 pm which is considered to be the working hours. The significantly high load in working hours affect the overall electricity cost and causes a burden to the grid(overloading). 
-* During the working days, the power consumption is higher compared to that of the weekends. 
+	
+* During the working days, the power consumption is higher compared to that of the weekends.
+	
 * The charging stations are not used simultaneously, and each station has different power consumption. 
+	
 * Few of the stations has minimal power consumptions or some time no power consumption during the non-working hours.
+	
 * Few stations are more popular than most of the stations and are being used regularly.</h4> 
 
 	
