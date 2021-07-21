@@ -16,11 +16,11 @@
   <img width="700" src="https://user-images.githubusercontent.com/74568334/126492077-1de6b55f-aa43-4426-bfce-9cdaf1c8d3c9.jpeg">
 </p> 
   
-<h4 align="left"> Assumptions
-	From 2017, there was a steady growth in the number of electric vehicles this resulted in more power consumption in 2019.
-	2020 power consumption was drastically low because of the travel regulation imposed due to Corona pandemic. 
-	The power consumption peaks range between 8 am and 4 pm, this might be because of working hours.
-	The power consumption is minimal for the time range, from 12 am to 7 am and from 4 pm to 11 pm reason might be, because of a smaller number of vehicles being charged in those time range. </h4> 
+<h4 align="left"> Discussions
+*	From 2017, there was a steady growth in the number of electric vehicles this resulted in more power consumption in 2019.
+*	2020 power consumption was drastically low because of the travel regulation imposed due to Corona pandemic. 
+*	The power consumption peaks range between 8 am and 4 pm, this might be because of working hours.
+*	The power consumption is minimal for the time range, from 12 am to 7 am and from 4 pm to 11 pm reason might be, because of a smaller number of vehicles being charged in those time range. </h4> 
     
   
 <h3 align="left"> 1. Analysis of Year-Wise Power Consumption from 2017 to 2020</h3>
