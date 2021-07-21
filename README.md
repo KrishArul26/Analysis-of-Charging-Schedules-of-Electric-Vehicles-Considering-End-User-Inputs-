@@ -18,7 +18,8 @@
   
 <h4 align="left"> Discussions</h4> 
   
-<h4 align="left">
+<h4 align="left">'
+  
 *	From 2017, there was a steady growth in the number of electric vehicles this resulted in more power consumption in 2019.
   
 *	2020 power consumption was drastically low because of the travel regulation imposed due to Corona pandemic. 
@@ -36,6 +37,7 @@
 <h4 align="left"> Discussions</h4> 
   
 <h4 align="left">  
+  
 * The power consumption is generally found to be high during the weekdays and significantly low during the weekends. Further, Monday and Friday have relatively higher power consumption among the rest of the weekdays. The peak power consumption(total) for Monday and Friday are 1128.88 kWh and 1011.32 kWh, respectively. 
 
 * The power consumption in the working days is significantly higher than the weekends, this might be due to lack of usage of EVs on the weekends.
