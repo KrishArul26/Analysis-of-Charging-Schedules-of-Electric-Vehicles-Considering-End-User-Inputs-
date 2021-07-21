@@ -17,6 +17,7 @@
 </p> 
   
 <h4 align="left"> Discussions
+  
 *	From 2017, there was a steady growth in the number of electric vehicles this resulted in more power consumption in 2019.
 *	2020 power consumption was drastically low because of the travel regulation imposed due to Corona pandemic. 
 *	The power consumption peaks range between 8 am and 4 pm, this might be because of working hours.
