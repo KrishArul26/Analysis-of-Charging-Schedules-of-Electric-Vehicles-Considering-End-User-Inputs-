@@ -53,6 +53,7 @@
   <h4 align="left"> The following graph is plotted on the variation of power consumption in kilo-Watthour(kWh) against Time for each station under analysis in 2020. 
 The stations under analysis were named as follows:
 	  
+	  
 DE*I2G*ESO0003*001: DE3001
 	  
 DE*I2G*ESO0005*002: DE5002
@@ -75,19 +76,15 @@ BESUCHER E5.11: E11
 BESUCHER E5.14: E14</h4>
 	
   <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/74568334/126493282-27421381-411f-4f01-8926-530bd8ac73f6.png">
+  <img width="700" src="https://user-images.githubusercontent.com/74568334/126495070-24af5b43-d80f-4e17-b577-78312b0beb81.jpeg">
 </p> 
   
 <h4 align="left"> Discussions</h4> 
   
 <h4 align="left">  
   
-* The power consumption is generally found to be high during the weekdays and significantly low during the weekends. Further, Monday and Friday have relatively higher power consumption among the rest of the weekdays. The peak power consumption(total) for Monday and Friday are 1128.88 kWh and 1011.32 kWh, respectively. 
-
-* The power consumption in the working days is significantly higher than the weekends, this might be due to lack of usage of EVs on the weekends.
-  
-* The power consumption on Mondays is found to be greater than that of any other day as there might be higher travelling on the weekends.
-  
-*	Similarly, the Friday power consumption might correspond to the higher travelling requirement on the weekends.
-  
-*	The rest of the working days (i.e., Tuesday till Thursday) the power consumption is similar and comparatively lesser than that of Monday and Friday, as these days do not succeed or precede by any other day with higher travelling requirements.</h4> 
+* The stations E11, E12 and E13 are having higher power consumption than the rest of the charging stations. The stations under analysis may be divided into two different categories based on their location since the stations have two different naming structures.  i.e., E11, E12, E13, E14, E3 & E4( E series ) and DE3001, DE3002, DE5001 & DE5002 ( DE series ).
+* The E series might be closer to the working place than DE series. 
+* The E series power consumption can be seen only during working hours whereas DE series power consumption is independent of working hours.
+* The DE series might be a Level- 2 charging station whereas E series might be Level- 3 charging stations. 
+* The E series might be more physically visible for the customer compared to the DE series. </h4> 
