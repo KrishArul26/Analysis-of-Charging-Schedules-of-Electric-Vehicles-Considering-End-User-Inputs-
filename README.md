@@ -9,3 +9,7 @@
   <img width="500" src="https://user-images.githubusercontent.com/74568334/126491250-f65550ba-674a-4707-8296-7321756e17c3.jpg">
 </p> 
 
+### 🔑 Results 
+  <h3 align="left"> Analysis of Year-Wise Power Consumption from 2017 to 2020</h3>
+
+  
