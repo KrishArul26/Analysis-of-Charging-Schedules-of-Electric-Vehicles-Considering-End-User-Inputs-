@@ -6,14 +6,14 @@
  <h4 align="left"> This section includes the analysis of the EV Charging data which provide by Schneider Electric from the year 2017 to 2020. Feature Engineering selection was applied such as Correlation test and PCA. After that cleaned data was analyzed based on various aspects to deduce the problems within the grid and to provide a suitable solution. For the ease of data analysis, the power consumption of the vehicle in a charging station is evenly distributed along the total time that the EV took for charging...</h4>
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/74568334/126491250-f65550ba-674a-4707-8296-7321756e17c3.jpg">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/126491250-f65550ba-674a-4707-8296-7321756e17c3.jpg">
 </p> 
 
 ## 🔑 Results 
   <h3 align="left"> 1. Analysis of Year-Wise Power Consumption from 2017 to 2020</h3>
   <h4 align="left"> The analysis done  on the variation of power consumption in kilo-Watthour(kWh) against Time for all stations under analysis from 2017 to 2020. There were eleven stations involved in the analysis and further details are shown in Section III. The power consumption from 2017 has been increasing until 2019 and it saw a steady decline in the year 2020. The peak power consumption of the year 2019 and 2020 are 3090.991 kWh and 1128.401 kWh, respectively. </h4>
   <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/74568334/126492077-1de6b55f-aa43-4426-bfce-9cdaf1c8d3c9.jpeg">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/126492077-1de6b55f-aa43-4426-bfce-9cdaf1c8d3c9.jpeg">
 </p> 
   
 <h4 align="left"> Discussions</h4> 
@@ -31,7 +31,7 @@
 <h3 align="left"> 2. Analysis of Power Consumption for Each Day</h3>
   <h4 align="left"> The following graph is plotted on the variation of total power consumption (sum of power consumption of all the charging stations under analysis) in kilo-Watthour(kWh) against Time for each day from 2017 to 2020. </h4>
   <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/74568334/126493282-27421381-411f-4f01-8926-530bd8ac73f6.png">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/126493282-27421381-411f-4f01-8926-530bd8ac73f6.png">
 </p> 
   
 <h4 align="left"> Discussions</h4> 
@@ -76,7 +76,7 @@ BESUCHER E5.11: E11
 BESUCHER E5.14: E14</h4>
 	
   <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/74568334/126495070-24af5b43-d80f-4e17-b577-78312b0beb81.jpeg">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/126495070-24af5b43-d80f-4e17-b577-78312b0beb81.jpeg">
 </p> 
   
 <h4 align="left"> Discussions</h4> 
@@ -92,7 +92,7 @@ BESUCHER E5.14: E14</h4>
 <h3 align="left"> 4. Analysis of Total Power Consumption for Each Charging Station in 2020</h3>
   <h4 align="left"> The graph depicts the station usage by the customer in the year 2020 from January to September in ascending order of their power consumption. </h4>
   <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/74568334/126495689-243e98ef-9557-4d27-ba2e-d19baed6d66d.png">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/126495689-243e98ef-9557-4d27-ba2e-d19baed6d66d.png">
 </p> 
   
 <h4 align="left"> Discussions</h4> 
