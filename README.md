@@ -117,6 +117,7 @@ BESUCHER E5.14: E14</h4>
 <h3 align="left"> 5. Analysis of Number of cars for Each Time Duration </h3>
 	
 <h4 align="left"> The following graph depicts the number of (BMW i3s, Mitsubishi i-MiEV) cars under each duration level, where duration level refers to the time range between each hour required for the car to charge.The number of cars under analysis are:
+	
 * BMW i3s: 40
 	  
 * Mitsubishi i-MiEV: 20</h4>
@@ -128,6 +129,39 @@ BESUCHER E5.14: E14</h4>
 <h4 align="left"> Discussions</h4> 
   
 <h4 align="left">  
+	
 * The i3s model had larger power consumption due to the larger battery capacity(33kWh) when compared to the i-MiEV model(14kWh). 
 	
-* Most of the i-MiEV model charging duration level ranged between 2 and 5 hours, Whereas the majority of i3s model charging duration level ranged between 5 and 22 hours.</h4> 
+* Most of the i-MiEV model charging duration level ranged between 2 and 5 hours, Whereas the majority of i3s model charging duration level ranged between 5 and 22 hours.</h4>
+
+<h3 align="left"> Problem Statments</h3> 
+  
+<h4 align="left"> 
+	
+* The power consumption in the charging stations is found to be high, from 8 am to 4 pm which is considered to be the working hours. The significantly high load in working hours affect the overall electricity cost and causes a burden to the grid(overloading). 
+* During the working days, the power consumption is higher compared to that of the weekends. 
+* The charging stations are not used simultaneously, and each station has different power consumption. 
+* Few of the stations has minimal power consumptions or some time no power consumption during the non-working hours.
+* Few stations are more popular than most of the stations and are being used regularly.</h4> 
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
