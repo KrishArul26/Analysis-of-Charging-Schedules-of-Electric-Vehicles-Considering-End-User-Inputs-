@@ -149,6 +149,40 @@ BESUCHER E5.14: E14</h4>
 * Few of the stations has minimal power consumptions or some time no power consumption during the non-working hours.
 	
 * Few stations are more popular than most of the stations and are being used regularly.</h4> 
+	
+<h3 align="left">Solution</h3> 	
+	
+<h4 align="left"> To overcome the above-mentioned problems the Dynamic Load Managment(DLM) with Scheduling strategy can be used </h4> 
+	
+<h3 align="left"Why DLM with Scheduling?</h3>
+	
+<h4 align="left">
+* Dynamic load management(DLM) is an energy management system which distributes the electricity to all the EVs that are charged simultaneously and channelise the complete volume of power to the EV whenever the grid has sufficient capacity.
+
+* This strategy does not involve any infrastructural requirements.
+	
+* The range for maximum load consumption of the grid can be set, which in turn distribute the load to stations accordingly. 
+	
+* Simultaneous charging of EVs can be achieved.
+	
+* During Simultaneous charging, the load consumption of each station would be uniform. 
+	
+* The ability to customise the maximum load consumption yields in better grid life and reduce the cost of charging during peak hours.
+	
+* The installation of this strategy can be done for a site which is fully allocated to EVs or can be done for a site where another facility shares the maximum allocated power.
+	
+* On addition/removal of stations into the grid, this strategy can be scaled accordingly.
+	
+ </h4> 
+	
+<h3 align="center"Implementation of  DLM with Scheduling</h3>
+
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/126503252-8f19ff65-997d-4ef8-ba95-e3ffb6c245cc.png">
+</p> 
+	
+	
+
 
 	
 	
