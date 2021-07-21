@@ -102,3 +102,18 @@ BESUCHER E5.14: E14</h4>
 * The variation in the usage of the station can be due to variation in the maintenance of the stations and well-maintained station tend to have more customers.
 * The location of most popular stations (E11, E12 and E13) can be under a roof which is an attraction to the new car owners.
 * The most used stations might have sufficient parking space and convenient orientation for parking.</h4> 
+
+<h3 align="left"> 5. Analysis of Number of cars for Each Time Duration </h3>
+  <h4 align="left"> The following graph depicts the number of (BMW i3s, Mitsubishi i-MiEV) cars under each duration level, where duration level refers to the time range between each hour required for the car to charge.The number of cars under analysis are:
+* BMW i3s: 40
+* Mitsubishi i-MiEV: 20</h4>
+	
+  <p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/126498510-a71593c4-a29d-40b0-a8ed-8da773ae6db1.jpg">
+</p> 
+  
+<h4 align="left"> Discussions</h4> 
+  
+<h4 align="left">  
+* The i3s model had larger power consumption due to the larger battery capacity(33kWh) when compared to the i-MiEV model(14kWh). 
+* Most of the i-MiEV model charging duration level ranged between 2 and 5 hours, Whereas the majority of i3s model charging duration level ranged between 5 and 22 hours.</h4> 
