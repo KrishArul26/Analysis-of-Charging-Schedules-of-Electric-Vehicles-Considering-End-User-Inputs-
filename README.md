@@ -80,6 +80,7 @@ BESUCHER E5.14: E14</h4>
 </p> 
   
 <h4 align="left"> Discussions</h4> 
+	
   
 <h4 align="left">  
   
@@ -94,14 +95,17 @@ BESUCHER E5.14: E14</h4>
 * The E series might be more physically visible for the customer compared to the DE series. </h4> 
 	
 <h3 align="left"> 4. Analysis of Total Power Consumption for Each Charging Station in 2020</h3>
-  <h4 align="left"> The graph depicts the station usage by the customer in the year 2020 from January to September in ascending order of their power consumption. </h4>
+	
+<h4 align="left"> The graph depicts the station usage by the customer in the year 2020 from January to September in ascending order of their power consumption. </h4>
+	
   <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/74568334/126495689-243e98ef-9557-4d27-ba2e-d19baed6d66d.png">
 </p> 
   
 <h4 align="left"> Discussions</h4> 
   
-<h4 align="left">  
+<h4 align="left"> 
+	
 * The usage of the stations (E11, E12 and E13) is relatively higher as the parking convenience is better than the rest of the station with lower power consumption. 
 	
 * The variation in the usage of the station can be due to variation in the maintenance of the stations and well-maintained station tend to have more customers.
@@ -111,7 +115,8 @@ BESUCHER E5.14: E14</h4>
 * The most used stations might have sufficient parking space and convenient orientation for parking.</h4> 
 
 <h3 align="left"> 5. Analysis of Number of cars for Each Time Duration </h3>
-  <h4 align="left"> The following graph depicts the number of (BMW i3s, Mitsubishi i-MiEV) cars under each duration level, where duration level refers to the time range between each hour required for the car to charge.The number of cars under analysis are:
+	
+<h4 align="left"> The following graph depicts the number of (BMW i3s, Mitsubishi i-MiEV) cars under each duration level, where duration level refers to the time range between each hour required for the car to charge.The number of cars under analysis are:
 * BMW i3s: 40
 	  
 * Mitsubishi i-MiEV: 20</h4>
