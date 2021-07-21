@@ -84,9 +84,13 @@ BESUCHER E5.14: E14</h4>
 <h4 align="left">  
   
 * The stations E11, E12 and E13 are having higher power consumption than the rest of the charging stations. The stations under analysis may be divided into two different categories based on their location since the stations have two different naming structures.  i.e., E11, E12, E13, E14, E3 & E4( E series ) and DE3001, DE3002, DE5001 & DE5002 ( DE series ).
+	
 * The E series might be closer to the working place than DE series. 
+	
 * The E series power consumption can be seen only during working hours whereas DE series power consumption is independent of working hours.
+	
 * The DE series might be a Level- 2 charging station whereas E series might be Level- 3 charging stations. 
+	
 * The E series might be more physically visible for the customer compared to the DE series. </h4> 
 	
 <h3 align="left"> 4. Analysis of Total Power Consumption for Each Charging Station in 2020</h3>
@@ -99,13 +103,17 @@ BESUCHER E5.14: E14</h4>
   
 <h4 align="left">  
 * The usage of the stations (E11, E12 and E13) is relatively higher as the parking convenience is better than the rest of the station with lower power consumption. 
+	
 * The variation in the usage of the station can be due to variation in the maintenance of the stations and well-maintained station tend to have more customers.
+	
 * The location of most popular stations (E11, E12 and E13) can be under a roof which is an attraction to the new car owners.
+	
 * The most used stations might have sufficient parking space and convenient orientation for parking.</h4> 
 
 <h3 align="left"> 5. Analysis of Number of cars for Each Time Duration </h3>
   <h4 align="left"> The following graph depicts the number of (BMW i3s, Mitsubishi i-MiEV) cars under each duration level, where duration level refers to the time range between each hour required for the car to charge.The number of cars under analysis are:
 * BMW i3s: 40
+	  
 * Mitsubishi i-MiEV: 20</h4>
 	
   <p align="center">
@@ -116,4 +124,5 @@ BESUCHER E5.14: E14</h4>
   
 <h4 align="left">  
 * The i3s model had larger power consumption due to the larger battery capacity(33kWh) when compared to the i-MiEV model(14kWh). 
+	
 * Most of the i-MiEV model charging duration level ranged between 2 and 5 hours, Whereas the majority of i3s model charging duration level ranged between 5 and 22 hours.</h4> 
