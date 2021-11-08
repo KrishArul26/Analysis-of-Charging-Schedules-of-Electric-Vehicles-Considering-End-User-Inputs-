@@ -185,8 +185,6 @@ The graph depicts the station usage by the customer in the year 2020 from Januar
 <h3 align="left">Solution</h3> 	
 
  <p style= 'text-align: justify;'> To overcome the above-mentioned problems the Dynamic Load Managment(DLM) with Scheduling strategy can be used. </p>
-		
-<h3 align="left"Why DLM with Scheduling?</h3>
 	
 <p style= 'text-align: justify;'> 
 	
