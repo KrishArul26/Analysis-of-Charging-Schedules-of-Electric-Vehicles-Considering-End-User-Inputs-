@@ -182,20 +182,13 @@ The graph depicts the station usage by the customer in the year 2020 from Januar
 	
 </p>
   
-  
-	
 <h3 align="left">Solution</h3> 	
 
- <p style= 'text-align: justify;'> 
-	
-To overcome the above-mentioned problems the Dynamic Load Managment(DLM) with Scheduling strategy can be used
-	
-</p>
-	
-	
+ <p style= 'text-align: justify;'> To overcome the above-mentioned problems the Dynamic Load Managment(DLM) with Scheduling strategy can be used. </p>
+		
 <h3 align="left"Why DLM with Scheduling?</h3>
 	
- <p style= 'text-align: justify;'> 
+<p style= 'text-align: justify;'> 
 	
 * Dynamic load management(DLM) is an energy management system which distributes the electricity to all the EVs that are charged simultaneously and channelise the complete volume of power to the EV whenever the grid has sufficient capacity.
 
@@ -217,7 +210,7 @@ To overcome the above-mentioned problems the Dynamic Load Managment(DLM) with Sc
 	
 <h3 align="center"Implementation of  DLM with Scheduling</h3>
 
-<p align="center">
+ <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/74568334/126503252-8f19ff65-997d-4ef8-ba95-e3ffb6c245cc.png">
 </p> 
 	
