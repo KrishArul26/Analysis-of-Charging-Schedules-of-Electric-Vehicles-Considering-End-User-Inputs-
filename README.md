@@ -87,18 +87,19 @@
 				* BESUCHER E5.11: E11 
 
 				* BESUCHER E5.14: E14
-	</p>
+	
+</p>
 	
 
-  <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/74568334/126495070-24af5b43-d80f-4e17-b577-78312b0beb81.jpeg">
+ <p align="center">
+  <img width="900" src="https://user-images.githubusercontent.com/74568334/126495070-24af5b43-d80f-4e17-b577-78312b0beb81.jpeg">
 </p> 
   
 <h4 align="left"> Discussions</h4> 
 	
-  
-<h4 align="left">  
-  
+ 
+ <p style= 'text-align: justify;'> 
+	
 * The stations E11, E12 and E13 are having higher power consumption than the rest of the charging stations. The stations under analysis may be divided into two different categories based on their location since the stations have two different naming structures.  i.e., E11, E12, E13, E14, E3 & E4( E series ) and DE3001, DE3002, DE5001 & DE5002 ( DE series ).
 	
 * The E series might be closer to the working place than DE series. 
@@ -107,19 +108,24 @@
 	
 * The DE series might be a Level- 2 charging station whereas E series might be Level- 3 charging stations. 
 	
-* The E series might be more physically visible for the customer compared to the DE series. </h4> 
+* The E series might be more physically visible for the customer compared to the DE series.
 	
+</p>
+
+
 <h3 align="left"> 4. Analysis of Total Power Consumption for Each Charging Station in 2020</h3>
+
+<p style= 'text-align: justify;'> 
+The graph depicts the station usage by the customer in the year 2020 from January to September in ascending order of their power consumption. </p>
+
 	
-<h4 align="left"> The graph depicts the station usage by the customer in the year 2020 from January to September in ascending order of their power consumption. </h4>
-	
-  <p align="center">
+ <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/74568334/126495689-243e98ef-9557-4d27-ba2e-d19baed6d66d.png">
 </p> 
   
 <h4 align="left"> Discussions</h4> 
-  
-<h4 align="left"> 
+
+ <p style= 'text-align: justify;'> 
 	
 * The usage of the stations (E11, E12 and E13) is relatively higher as the parking convenience is better than the rest of the station with lower power consumption. 
 	
@@ -127,31 +133,42 @@
 	
 * The location of most popular stations (E11, E12 and E13) can be under a roof which is an attraction to the new car owners.
 	
-* The most used stations might have sufficient parking space and convenient orientation for parking.</h4> 
+* The most used stations might have sufficient parking space and convenient orientation for parking.
+	
+</p>
+  
 
 <h3 align="left"> 5. Analysis of Number of cars for Each Time Duration </h3>
+
+ <p style= 'text-align: justify;'> The following graph depicts the number of (BMW i3s, Mitsubishi i-MiEV) cars under each duration level, where duration level refers to the time range between each hour required for the car to charge.The number of cars under analysis are:
 	
-<h4 align="left"> The following graph depicts the number of (BMW i3s, Mitsubishi i-MiEV) cars under each duration level, where duration level refers to the time range between each hour required for the car to charge.The number of cars under analysis are:
+					* BMW i3s: 40
+
+					* Mitsubishi i-MiEV: 20
 	
-* BMW i3s: 40
-	  
-* Mitsubishi i-MiEV: 20</h4>
 	
-  <p align="center">
+</p>
+	
+	
+ <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/74568334/126498510-a71593c4-a29d-40b0-a8ed-8da773ae6db1.jpg">
 </p> 
   
 <h4 align="left"> Discussions</h4> 
-  
-<h4 align="left">  
+
+ <p style= 'text-align: justify;'> 
 	
 * The i3s model had larger power consumption due to the larger battery capacity(33kWh) when compared to the i-MiEV model(14kWh). 
 	
-* Most of the i-MiEV model charging duration level ranged between 2 and 5 hours, Whereas the majority of i3s model charging duration level ranged between 5 and 22 hours.</h4>
+* Most of the i-MiEV model charging duration level ranged between 2 and 5 hours, Whereas the majority of i3s model charging duration level ranged between 5 and 22 hours.
+	
+	
+</p>
+  
 
 <h3 align="left"> Problem Statments</h3> 
-  
-<h4 align="left"> 
+
+ <p style= 'text-align: justify;'> 
 	
 * The power consumption in the charging stations is found to be high, from 8 am to 4 pm which is considered to be the working hours. The significantly high load in working hours affect the overall electricity cost and causes a burden to the grid(overloading). 
 	
@@ -161,15 +178,24 @@
 	
 * Few of the stations has minimal power consumptions or some time no power consumption during the non-working hours.
 	
-* Few stations are more popular than most of the stations and are being used regularly.</h4> 
+* Few stations are more popular than most of the stations and are being used regularly.
+	
+</p>
+  
+  
 	
 <h3 align="left">Solution</h3> 	
+
+ <p style= 'text-align: justify;'> 
 	
-<h4 align="left"> To overcome the above-mentioned problems the Dynamic Load Managment(DLM) with Scheduling strategy can be used </h4> 
+To overcome the above-mentioned problems the Dynamic Load Managment(DLM) with Scheduling strategy can be used
+	
+</p>
+	
 	
 <h3 align="left"Why DLM with Scheduling?</h3>
 	
-<h4 align="left">
+ <p style= 'text-align: justify;'> 
 	
 * Dynamic load management(DLM) is an energy management system which distributes the electricity to all the EVs that are charged simultaneously and channelise the complete volume of power to the EV whenever the grid has sufficient capacity.
 
@@ -187,7 +213,7 @@
 	
 * On addition/removal of stations into the grid, this strategy can be scaled accordingly.
 	
- </h4> 
+</p>
 	
 <h3 align="center"Implementation of  DLM with Scheduling</h3>
 
